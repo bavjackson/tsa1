@@ -4,6 +4,9 @@
       "language": "python",
       "version": "3.12",
       "testrunner": "pytest"
+    },
+    {
+      "language": "cpp"
     }
   ],
   "modules": [
