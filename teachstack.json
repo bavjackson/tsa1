@@ -188,6 +188,11 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Hello World",
+      "dir": "HelloWorld",
+      "exercises": []
     }
   ]
 }
